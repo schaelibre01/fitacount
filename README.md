@@ -1,4 +1,5 @@
-#행복 소비 테라피, Fit-a-Count
+# 행복 소비 테라피, Fit-a-Count
+경제적 분석을 넘어 행복한 소비로, 소비 내역과 유저의 성격 데이터를 통해 유저가 보다 행복하고 좋은 소비를 하도록 유도하는 행복 소비 코칭 서비스
 
 # Getting Started with Create React App
 
